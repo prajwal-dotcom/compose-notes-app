@@ -1,0 +1,7 @@
+package com.example.composenotesapp.data
+
+data class Note(
+    val id: Int,
+    val title: String,
+    val description: String
+)
